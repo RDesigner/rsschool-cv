@@ -18,16 +18,24 @@ function hello(name) {
 alert( hello('world') );
 ```
 ## Experience
-- **2016 - current time** Zaochnik - frontend developer.
-- **2013 - 2016** RDesigner - frontend developer.
-- **2008 - 2013** Valexweb - web developer.
+**Zaochnik**
+Frontend developer.
+2016 - current time
+
+**RDesigner** 
+Frontend developer.
+2013 - 2016
+
+**Valexweb**
+Web developer.
+2008 - 2013
 
 ## Education
-- **Belarusian State University of Informatics and Radioelectronics**
+**Belarusian State University of Informatics and Radioelectronics**
 Engineer - Systems Engineering
 2004 – 2008
 
-- **Minsk State High Radiotechnical College**
+**Minsk State High Radiotechnical College**
 Technic - Software development
 2000 – 2004
 

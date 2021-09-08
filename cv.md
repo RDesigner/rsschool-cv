@@ -30,3 +30,6 @@ Engineer - Systems Engineering
 - **Minsk State High Radiotechnical College**
 Technic - Software development
 2000 – 2004
+
+## English
+A2 Elementary

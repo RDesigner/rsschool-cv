@@ -5,3 +5,11 @@ I'm frontend developer in Zaochnik. I like practice html, css and java script. M
 - HTML
 - CSS
 - JavaScript
+## Code example
+``
+    function hello(name) {
+        return `Hello ${name}!`;
+    }
+
+    alert( hello('world') );
+``
